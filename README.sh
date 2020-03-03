@@ -11,7 +11,7 @@ cyan='\e[1;36m'
 white='\e[1;37m'
 
 clear
-echo -e "${red}RAMADHAN YA RAMADHAN "
+echo -e "${red}Ramadhan Tiba "
 sleep 2
 figlet 2020
 sleep 2
